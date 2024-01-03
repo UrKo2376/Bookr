@@ -14,7 +14,7 @@ monthly_challenges = {
     "september":"Getting winter ready!!!",
     "october":"Getting ready for Halloween",
     "november":"Almost Christmas time!!!",
-    "december":"Christmas time!!"
+    "december":None
 }
 
 # Create your views here.
